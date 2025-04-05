@@ -2,6 +2,10 @@
 
 A simple Python-based website crawler that recursively visits every internal link on a specified domain, counts the number of unique pages, and optionally exports the results in various formats (CSV, XLSX, JSON).
 
+
+ ![Crawler](/assets/images/cover.jpg)
+
+
 ## 📦 Features
 
 - Recursively crawls all internal pages on a given website
